@@ -10,7 +10,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-  <a href="https://github.com/RashadHagen/Windows-Server/tree/main" style="color: inherit; text-decoration: none;">
+  <a href="https://github.com/RashadHagen/Windows-Server" style="color: inherit; text-decoration: none;">
     💻 Windows Server
   </a>
 </h2>
@@ -20,7 +20,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-<a href="https://github.com/RashadHagen/Windows-Server/tree/main" style="color: inherit; text-decoration: none;">
+<a href="https://github.com/RashadHagen/Windows-10" style="color: inherit; text-decoration: none;">
 💻 Windows 10
 </a>
 </h2>
