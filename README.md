@@ -11,7 +11,7 @@
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
   <a href="https://github.com/RashadHagen/Windows-Server" style="color: inherit; text-decoration: none;">
-    💻 WINDOWS - Active Directory & RSAT
+    💻 Active Directory & RSAT
   </a>
 </h2>
 <ul>
