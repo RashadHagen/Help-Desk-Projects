@@ -11,7 +11,7 @@
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
   <a href="https://github.com/RashadHagen/Server-Manager-Server-Manager-Tools-RSAT" style="color: inherit; text-decoration: none;">
-    💻 SERVER MANAGER & SERVER MANAGER TOOLS & RSAT
+    💻 Server Manager & Server Manager Tools & RSAT
   </a>
 </h2>
 <ul>
