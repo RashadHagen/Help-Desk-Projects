@@ -101,7 +101,7 @@
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
 <a href="https://github.com/RashadHagen/Help-Desk-Full-List-Link" style="color: inherit; text-decoration: none;">
-💻 *Full List*
+💻 *Help Desk Full List*
 </a>
 </h2>
 <ul>
