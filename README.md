@@ -30,7 +30,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-<a href="https://github.com/RashadHagen/Windows-10" style="color: inherit; text-decoration: none;">
+<a href="https://github.com/RashadHagen/Server-Manager" style="color: inherit; text-decoration: none;">
 💻 Server Manager
 </a>
 </h2>
