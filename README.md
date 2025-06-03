@@ -90,7 +90,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-<a href="https://github.com/RashadHagen/Computer-Management" style="color: inherit; text-decoration: none;">
+<a href="https://github.com/RashadHagen/Command-Prompt" style="color: inherit; text-decoration: none;">
 💻 Command Prompt
 </a>
 </h2>
