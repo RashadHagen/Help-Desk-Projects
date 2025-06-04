@@ -50,26 +50,6 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-<a href="https://github.com/RashadHagen/Ticketing" style="color: inherit; text-decoration: none;">
-💻 Ticketing
-</a>
-</h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
-
-
-<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-<a href="https://github.com/RashadHagen/PBQ-Deploy-Inventory" style="color: inherit; text-decoration: none;">
-💻 PBQ Deploy & Inventory
-</a>
-</h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
-
-
-<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
 <a href="https://github.com/RashadHagen/Control-Panel" style="color: inherit; text-decoration: none;">
 💻 Control Panel
 </a>
@@ -92,6 +72,26 @@
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
 <a href="https://github.com/RashadHagen/Computer-Management" style="color: inherit; text-decoration: none;">
 💻 Computer Management
+</a>
+</h2>
+<ul>
+  <!-- Your list items here -->
+</ul>
+
+
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
+<a href="https://github.com/RashadHagen/PBQ-Deploy-Inventory" style="color: inherit; text-decoration: none;">
+💻 PBQ Deploy & Inventory
+</a>
+</h2>
+<ul>
+  <!-- Your list items here -->
+</ul>
+
+
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
+<a href="https://github.com/RashadHagen/Ticketing" style="color: inherit; text-decoration: none;">
+💻 Ticketing
 </a>
 </h2>
 <ul>
