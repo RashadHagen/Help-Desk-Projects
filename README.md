@@ -30,7 +30,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-  <a href="https://github.com/RashadHagen/Server-Manager-Server-Manager-Tools-RSAT" style="color: inherit; text-decoration: none;">
+  <a href="https://github.com/RashadHagen/Microsoft-Azure" style="color: inherit; text-decoration: none;">
     💻 Microsoft Azure
   </a>
 </h2>
