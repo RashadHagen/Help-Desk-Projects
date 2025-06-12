@@ -30,6 +30,16 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
+  <a href="https://github.com/RashadHagen/Microsoft-Azure" style="color: inherit; text-decoration: none;">
+    💻 Microsoft Azure
+  </a>
+</h2>
+<ul>
+  <!-- Your list items here -->
+</ul>
+
+
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
 <a href="https://github.com/RashadHagen/Command-Prompt" style="color: inherit; text-decoration: none;">
 💻 Command Prompt
 </a>
@@ -93,16 +103,6 @@
 <a href="https://github.com/RashadHagen/Ticketing" style="color: inherit; text-decoration: none;">
 💻 Ticketing
 </a>
-</h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
-
-
-<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-  <a href="https://github.com/RashadHagen/Microsoft-Azure" style="color: inherit; text-decoration: none;">
-    💻 Microsoft Azure
-  </a>
 </h2>
 <ul>
   <!-- Your list items here -->
