@@ -14,9 +14,6 @@
     💻 Server Manager & Server Manager Tools & RSAT
   </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -24,9 +21,6 @@
 💻 Microsoft 365
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -34,9 +28,6 @@
     💻 Microsoft Azure
   </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -44,9 +35,6 @@
 💻 Command Prompt
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -54,9 +42,6 @@
 💻 Remote Desktop
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -64,9 +49,6 @@
 💻 Computer Management
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -74,9 +56,6 @@
 💻 Control Panel
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -84,9 +63,6 @@
 💻 File Explorer
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -94,9 +70,6 @@
 💻 PBQ Deploy & Inventory
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -104,9 +77,6 @@
 💻 Ticketing
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
@@ -114,6 +84,3 @@
 💻 *Help Desk Full List*
 </a>
 </h2>
-<ul>
-  <!-- Your list items here -->
-</ul>
