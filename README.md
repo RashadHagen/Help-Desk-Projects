@@ -6,6 +6,13 @@
 
 
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
+  <a href="https://github.com/RashadHagen/Virtual-Machine" style="color: inherit; text-decoration: none;">
+    💻 Virtual Machine
+  </a>
+</h2>
+
+
+<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
   <a href="https://github.com/RashadHagen/Server-Manager-Server-Manager-Tools-RSAT" style="color: inherit; text-decoration: none;">
     💻 Server Manager & Server Manager Tools & RSAT
   </a>
@@ -71,13 +78,6 @@
 <h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
   <a href="https://github.com/RashadHagen/Ticketing" style="color: inherit; text-decoration: none;">
     💻 Ticketing
-  </a>
-</h2>
-
-
-<h2 style="font-family: Arial, sans-serif; font-size: 22px; font-weight: bold;">
-  <a href="https://github.com/RashadHagen/Virtual-Machine" style="color: inherit; text-decoration: none;">
-    💻 Virtual Machine
   </a>
 </h2>
 
